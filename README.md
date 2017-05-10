@@ -1,5 +1,5 @@
 # Programming I Portfolio
-Howard Ying 2017
+Howard Ying 2017 
 Contact: hyhowardying@gmail.com
 ---
 
