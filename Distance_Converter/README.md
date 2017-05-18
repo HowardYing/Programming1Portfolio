@@ -1,4 +1,3 @@
 # Distance Converter
 
-Inline-style: 
-![alt text](https://github.com/HowardYing/Programming1Portfolio/blob/master/Distance_Converter/Images/distConvert1.png "Logo Title Text 1")
+![alt text](https://github.com/HowardYing/Programming1Portfolio/Distance_Converter/Images/distConvert1.png "Logo Title Text 1")
