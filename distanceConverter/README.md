@@ -1,4 +1,4 @@
 # Distance Converter
 
 Test
-![alt text](https://github.com/HowardYing/Programming1Portfolio/blob/master/Images/distConvert1.png "TEST")
+![alt text](https://howardying.github.io/Programming1Portfolio/Images/distConvert1.png "TEST")
