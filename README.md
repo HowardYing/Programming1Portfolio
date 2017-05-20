@@ -2,6 +2,7 @@
 Howard Ying, 2017 
 
 Contact: hyhowardying@gmail.com
+
 ---
 ## Age Calculator
 [![Alt text](https://howardying.github.io/Programming1Portfolio/Images/ageCalc.png "Age Calculator")](https://howardying.github.io/Programming1Portfolio/ageCalculator)
