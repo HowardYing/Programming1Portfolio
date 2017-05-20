@@ -14,3 +14,7 @@ Contact: hyhowardying@gmail.com
 ---
 ## Distance Converter
 [![Alt text](https://howardying.github.io/Programming1Portfolio/Images/distConvert.png "Distance Converter")](https://howardying.github.io/Programming1Portfolio/distanceConverter)
+
+---
+## Distance Converter
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/spaceGame.png "Space Game")](https://howardying.github.io/Programming1Portfolio/spaceGame)
