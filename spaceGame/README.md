@@ -1,14 +1,13 @@
 # Space Game
 ![alt text](https://howardying.github.io/Programming1Portfolio/Images/spaceGame1.png)
 
-This is a simple calculator application that can perform the four basic operations and find squares and square roots. Additionally, it can calculate the sine, cosine, and tangent of angles. Decimals and negative numbers are, of course, supported. Pressing the equals sign after an operation is completed will repeat the operation on the result. The aesthetics of this app are inspired by the calculator built into the Windows 10 Operating System.
+This is a basic shooter game set in space, similar to those found on retro consoles. The premise is to defend earth from an alien attack, and shoot down missiles that are heading down, towards the planet. After a set amount of time, the game ends and a score is represented as an efficiency ratio. Currently, there is no penalty for letting missiles hit the planet. 
 [You can download an exported version of the app here.](https://www.google.com)
 
 # Code
 ![alt text](https://howardying.github.io/Programming1Portfolio/Images/spaceGame2.png)
 
-This calculator application was made using Processing 3. The calculator code consists of two classes. The button class handles the placement and behavior of the radio buttons on the calculator. The main class handles the calculation logic. About 400 lines of code were used in total.
+This game was made using Processing 3. It consists of three classes. The Bullet class handles the generation and hit detection of the bullets. The Spaceship class displays the spaceship and the shoot animation. The main class handles the game logic, game timer, and HUD. About 150 lines of code were used in total.
 [You can view the source code on Github here.](https://www.google.com)
 
 [BACK](https://howardying.github.io/Programming1Portfolio/ "Back to Home")
-
