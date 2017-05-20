@@ -5,7 +5,7 @@ Contact: hyhowardying@gmail.com
 
 ---
 ## Calculator
-[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/calculator.png "Calculator")](https://howardying.github.io/Programming1Portfolio/calculator)
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/calculator.PNG "Calculator")](https://howardying.github.io/Programming1Portfolio/calculator)
 
 ---
 ## Distance Converter
