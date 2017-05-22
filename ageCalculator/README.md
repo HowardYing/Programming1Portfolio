@@ -7,7 +7,7 @@ This is a basic age calculator that uses the current date and an inputted birth 
 ![alt text](https://howardying.github.io/Programming1Portfolio/Images/ageCalc2.png)
 
 This calculator application was made using Python 3. The application calculates the age by converting the inputted birthdate into seconds since the epoch. The current date is also converted to the same format. The two values are then subtracted, and the resulting number is converted back into a date tuple. The tuple is then sliced and outputted. About 14 lines of code were used.
-[You can view the source code on Github here.](https://github.com/HowardYing/ageCalculator/tree/master)
+[You can view the source code on Github here.](https://github.com/HowardYing/ageCalculator)
 
 [BACK](https://howardying.github.io/Programming1Portfolio/ "Back to Home")
 
