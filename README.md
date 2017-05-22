@@ -1,7 +1,8 @@
 # Programming I Portfolio
 Howard Ying, 2017 
 
-[Contact: hyhowardying@gmail.com](mailto:hyhowardying@gmail.com)
+Contact: 
+[hyhowardying@gmail.com](mailto:hyhowardying@gmail.com)
 
 ---
 ## Age Calculator
