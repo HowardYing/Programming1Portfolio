@@ -26,4 +26,4 @@ Contact:
 
 ---
 ## Group Project: Calorie Counter
-[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/spaceGame.png "Space Game")](https://howardying.github.io/Programming1Portfolio/calorieCounter)
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/calorieCounter.png "Calorie Counter")](https://howardying.github.io/Programming1Portfolio/calorieCounter)
