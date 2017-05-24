@@ -7,8 +7,9 @@ This application is a calorie counter and management tool. During inital setup, 
 # Code
 ![alt text](https://howardying.github.io/Programming1Portfolio/Images/calorieCounter2.png)
 
-This distance converter was made using Processing 3, in Python Mode. This was split among four different group members.  Tyler Herron developed a skeleton GUI interface. Addison Richey developed the calorie calculation model, continued development of the GUI, as well as the external save and load function. Howard Ying (me) developed the button class (responsible for the behavior of the radio buttons), as well as a data packing and unpacking class to simplify the save process. 
-[Documentation and early mockups of the app are available here, via Github.](https://github.com/HowardYing/calorieCounter/Documentation)
+This distance converter was made using Processing 3, in Python Mode. 
+[Documentation and early mockups of the app are available here, via Github.](hhttps://github.com/HowardYing/calorieCounter/tree/master/Documentation)
+This was split among four different group members. Tyler Herron developed a skeleton GUI interface. Addison Richey developed the calorie calculation model, continued development of the GUI, as well as the external save and load function. Howard Ying (me) developed the button class (responsible for the behavior of the radio buttons), as well as a data packing and unpacking class to simplify the save process. 
 [You can view the source code on Github here.](https://github.com/HowardYing/calorieCounter)
 
 [BACK](https://howardying.github.io/Programming1Portfolio/ "Back to Home")
